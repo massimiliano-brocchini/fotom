@@ -1,0 +1,4 @@
+dependencies: exiftool, yad, imagemagick
+exit codes:
+ 1 error
+ 2 nothing to do
